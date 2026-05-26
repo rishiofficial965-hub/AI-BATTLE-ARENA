@@ -77,8 +77,8 @@ const Sidebar = ({ history, onSelectBattle, activeId }) => {
             <div className="w-1.5 h-1.5 rounded-full bg-brand-accent animate-pulse" />
           </div>
           <div className="flex-1">
-            <p className="text-[10px] font-black text-white/80 uppercase leading-none">Antigravity</p>
-            <p className="text-[8px] font-bold text-white/20 uppercase tracking-widest mt-1">Core active</p>
+            <p className="text-[10px] font-black text-white/80 uppercase leading-none">System_Core</p>
+            <p className="text-[8px] font-bold text-white/20 uppercase tracking-widest mt-1">Arena Session Active</p>
           </div>
         </div>
       </div>
